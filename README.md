@@ -20,7 +20,7 @@
 3、ranger | VIM终端文件管理器  |[来源](https://github.com/ranger/ranger)  
 
 ## 浏览器
-1、MS-edge  | copilot  |
+1、MS-edge  | copilot |  
 2、Arc | [来源](https://arc.net/)  
 3、Chrome    
 4、星愿 | [来源](https://www.twinkstar.com/)  
@@ -49,15 +49,14 @@
 2、VMware Fusion | 备用
 
 ## 下崽器
-1、 B站下崽器 | windows | []()
+1、 B站下崽器 | windows使用 | []()  
 2、
 
 
 ## 手机相关
 1、爱思组手 | [来源](https://www.i4.cn/)  
-2、Android文件传输 | [来源]()
-3、
-4、
+2、Android文件传输 | [来源]()  
+
 
 ## 国际互联网
 1、clash verge
